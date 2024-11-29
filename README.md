@@ -93,8 +93,6 @@ Contributions to enhance the system are welcome. Please follow these steps:
 4. Push to the branch (`git push origin feature-branch`)
 5. Create a new Pull Request
 
-## License
-[Insert your chosen license here, e.g., MIT License, GNU GPL, etc.]
 
 ## Disclaimer
 This software is provided "as is", without warranty of any kind, express or implied. The authors are not responsible for any damages or liability arising from its use. Always use in a controlled environment and obtain necessary permissions before deploying in any production setting.
